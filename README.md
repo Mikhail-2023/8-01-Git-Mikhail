@@ -17,11 +17,14 @@
 `Ссылка на коммит........`
 
 ---
-
-### Задание 1
-
-`В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением`
-
 ### Задание 2
-
+1. [02-01](https://github.com/Mikhail-2023/8-01-Git-Mikhail/blob/main/Скрины/02-01.PNG)
+2. [02-02](https://github.com/Mikhail-2023/8-01-Git-Mikhail/blob/main/Скрины/02-02.PNG)
+3.  
+---
 ### Задание 3
+1. [03-01](https://github.com/Mikhail-2023/8-01-Git-Mikhail/blob/main/Скрины/03-01.PNG)
+2. [03-03](https://github.com/Mikhail-2023/8-01-Git-Mikhail/blob/main/Скрины/03-03.PNG)
+3. [03-04-01](https://github.com/Mikhail-2023/8-01-Git-Mikhail/blob/main/Скрины/03-04-01.PNG)
+4. [03-04-02](https://github.com/Mikhail-2023/8-01-Git-Mikhail/blob/main/Скрины/03-04-02.PNG)
+5. 
